@@ -11,6 +11,7 @@ import static org.mockito.Mockito.*;
 public class MessageCreatorTest {
     @Test
     @Ignore
+    //TODO: Update the test to mock the SQS Client
     public void testCreator() throws Exception {
         Context context = mock(Context.class);
         LambdaLogger logger = mock(LambdaLogger.class);
