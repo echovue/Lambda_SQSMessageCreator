@@ -1,2 +1,2 @@
-# Lambda_AddressValidation
-An example of a simple Lambda which validates am address in a DynamoDB table
+# Lambda SQS Message Creator
+An AWS Lambda Function written in Java 8 which creates and places messages on an SQS queue.
